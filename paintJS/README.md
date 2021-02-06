@@ -1,3 +1,3 @@
 # paintjs
 A Painting Board
-https://yeseolee.github.io/paintjs/
+https://yeseolee.github.io/JavaScriptProject/paintJS/
